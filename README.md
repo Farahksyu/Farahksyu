@@ -27,13 +27,9 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40"/>
     <img width="12">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TS" height="40"/> 
-    <img width="12">
     <img src="https://skillicons.dev/icons?i=sequelize" alt="Sequelize" height="40"/> 
     <img width="12">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/> 
-    <img width="12">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40"/>
     <img width="12">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40"/> 
 </div>
