@@ -1,7 +1,8 @@
-<h1 align="left">Hi 👋, My name is Farah Khairunnisa Saribhayu, <br> i am Front-end Web Developer from Indonesia.</h1>
+<h1 align="left">Hi 👋, My name is Farah Khairunnisa Saribhayu, <br> I am Front-end Web Developer from Indonesia.</h1>
 ###
 
-<p align="left">i'm Farah Khairunnisa Saribhayu, a Front-end Web Developer who has been working as a freelancer for one year. As a Front-end Web Developer, I have a strong desire to create beautiful, simple, and user-friendly websites.</p>
+<p align="left">Experienced as a Software Engineer who works with HTML, CSS and JavaScript. Regarding switch career it's about fascination with intriguing technical challenges and belief in the limitless growth opportunities offered by the technology industry. Currently enrolled in a Full-Stack Web Developer bootcamp to enhance skills and stay abreast of industry advancements. A detail-oriented individual who is eager for a full-time opportunity in Full-Stack Web Developer.Experienced as a Software Engineer who works with HTML, CSS and JavaScript. Regarding switch career it's about fascination with intriguing technical challenges and belief in the limitless growth opportunities offered by the technology industry. Currently enrolled in a Full-Stack Web Developer bootcamp to enhance skills and stay abreast of industry advancements. A detail-oriented individual who is eager for a full-time opportunity in Full-Stack Web Developer.
+</p>
 
 ###
 
