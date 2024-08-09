@@ -1,10 +1,9 @@
 <h1 align="left">Hi 👋, My name is Farah Khairunnisa Saribhayu, <br> I am Front-end Web Developer from Indonesia.</h1>
-###
+<hr></hr>
 
-<p align="left">Experienced as a Software Engineer who works with HTML, CSS and JavaScript. Regarding switch career it's about fascination with intriguing technical challenges and belief in the limitless growth opportunities offered by the technology industry. Currently enrolled in a Full-Stack Web Developer bootcamp to enhance skills and stay abreast of industry advancements. A detail-oriented individual who is eager for a full-time opportunity in Full-Stack Web Developer.
-</p>
+<p align="left">A graduate from National Development University “Veteran” Yogyakarta with experience as a Software Engineer Intern working with HTML, CSS, JavaScript, Node.js, and MySQL. Recently completed a Full-Stack Web Developer bootcamp with the highest achievement, driven by a fascination with intriguing technical challenges and a belief in the limitless growth opportunities offered by the technology industry. A detail-oriented individual eager for a full-time opportunity in Frontend Web Development. </p>
 
-###
+####
 
 <h4 align="left">PRIMARY</h4>
 <div align="left">
